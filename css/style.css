@@ -2282,18 +2282,18 @@ display: flex;
     display: flex;
 }
     #t1{
-      font-size: 35px;
-      line-height: 38px;
+      font-size: 32px;
+      line-height: 36px;
     }
     #t2{
-      font-size: 12px;
+      font-size: 11px;
       max-width: 120px;
       line-height: 18px;
       padding-bottom: 1px;
     }
 
     #t3{
-      font-size: 11px;
+      font-size: 10px;
     }
     #tib-2_1 {
       padding: 0 4% 0px 0;
